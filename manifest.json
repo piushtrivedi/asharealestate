@@ -1,0 +1,45 @@
+{
+  "name": "Asha Real Estate",
+  "short_name": "Asha Real Estate",
+  "start_url": "https://asharealestate.asnp.in/",
+  "display": "standalone",
+   "background_color": "#0575E6",
+  "theme_color": "#0575E6",
+  "description": "Asha Real Estate Vadodra | Buy, Sell &amp; Rent Property in Vadodara, Flats, Villa, Offices, House.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQU0-nqOYfOBmIovlPiH8TXrnmAPwt84j5VfVw1ad06reNboLIUl2eB8r6r-vMsJYqPSUp3ooLp7Qhxa_8G9-1vUoj1o6xRsNggWby1POGqw-Rv2BRg2gxEu0VaymeVjt35WFc-xSfbIu3eF9IZfll6HU7yBkW49MZKMMRyn4ffXkCtTnYARDP1SJiyFc/s1600/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbJbXLWZ16emZuCMEdNBxpxANjbzHlhcXs2_MYD7b_CzyDQeQE6rMo74SW9bhSqzVVzXr_If67uIgipe0p9-JPBSuG2afJmADVJpW5ijCEv5pCHPxXW7n2Y-RJxTMUWPiCooLM-iEEOzpOYd97eQIHo_nsPrH8oj_ZqEuL7G3Tbyeu4bEXjp6uW7v4gQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT8GYoaGYnyXL_axEN3ohgQqOGPIylxv86Y_YW-8UxL557AOBscD-yhNDDm40F6W1JW6PFgymGzQaAC0XAHlAHFvHrc8vUUtUULjFBUCbE5QbVi58thsdhK8iW_OmX421-WZW-kOf4n0G_-4vlP0WACfsPtsoFV48LtTt9UgohKTAxxxe9hKy5EkDGUag/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ChicEZCYn4qsqdrOmvDshto647VGlPcM_8E5QCt6cTxZ3YTjVO88Sh0cKKjpi9CbnpM7tQ2g_5JPsa87PZldBuIhkzhziJpY7GyAwtIRKB0tIh1hf-4dRsI5FlWWrWLFcW0u1rH89baOelcEeOYiUbCun0m_sfRDiCRN3vYgtvaS-JsnmZc8OqWYWx8/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinsAGwDus3EaXRVdUyI5-oCa92L9SfmW5U68ucprs_oz-AxE_ywRUdHVUGAY7NIOPRnERB7yxQWlIwq-i3-YJPzsnWmsStIZGJ2lnxT0qNOWoHgtL2oxdGSRQPSh0qSNXwS2rOpQC02q4KgCzDoJfm4a27fwrwkkNm810LdOvzfYkd-pdbvZ17zHzshPM/s1600/apple-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5z956Ms451OgzoVa8M6awAmhAHKNEnTaeXlPwMJHjrRtyWIrAIpN9wsj7bUew3bICmkkYBQoxJkkax3iCTnpneIC6wkXnp3Sr0nYL0hxgCB35n_q0cl4Lf0EMPEifonqptFohCOxN1SlAZGvmwfwAvzJErRcG0nxuoRIEIx51Sajs22kmSgV4MUdv9fo/s16000/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUZAExkkOGuxwyTZ1WgqWOW6Uh0AwNdD2pVYtp4wV1VazIfxvkN5b8uXqeEaIqBwPrHlk9CyCQcYnyBB8Gx7-vx1mS_Fafe474l9RncdUN4-8vmZr0qx8Z9j1Q6bldTJDFFH-5OypADT4m__MD9onDtlvUPV2Di7zlH-ng3Zio_utqCh4HjsBO7sJ1LbE/s16000/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
